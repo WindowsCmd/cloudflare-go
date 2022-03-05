@@ -2,7 +2,7 @@
 ## WIP!!!
 Ever find yourself needing a lightweight cloudflare go library to manage your dns and nothing else???? Well this is for you! With very simple syntax.
 
-``` 
+```go
 package main 
 
 import (
